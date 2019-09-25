@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yiequohbo.nicolasdumoulin.be/sitemap.xml
